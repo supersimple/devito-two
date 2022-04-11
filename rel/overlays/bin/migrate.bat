@@ -1,0 +1,1 @@
+call "%~dp0\devito" eval Devito.Release.migrate
